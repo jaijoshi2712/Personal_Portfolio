@@ -14,14 +14,17 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Sai Kumar, nice to meet you. Please take a look around.</p>
+              <p>Hi. I'm Jai Joshi, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>  
+              <p>
+              As a software engineer with one year of experience specializing in backend technologies, 
+              REST APIs, and DevOps, I am actively seeking internship opportunities for the summer of 2024. 
+              My background equips me with the necessary skills to contribute to projects 
+              that require in-depth knowledge of server-side development and system operations. 
+              I am eager to apply my practical experience and further hone my technical abilities in a dynamic internship role.
+              
+                </p>  
             </div>
           </div>
       </div>

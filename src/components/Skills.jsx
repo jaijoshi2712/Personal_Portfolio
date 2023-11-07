@@ -5,7 +5,7 @@ import CSS from '../assets/css.png';
 import JavaScript from '../assets/javascript.png';
 import ReactImg from '../assets/react.png';
 import Node from '../assets/node.png';
-import FireBase from '../assets/firebase.png';
+import Docker from '../assets/Docker.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
 import Mongo from '../assets/mongo.png';
@@ -54,8 +54,8 @@ const Skills = () => {
                   <p className='my-4'>TAILWIND</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={FireBase} alt="HTML icon" />
-                  <p className='my-4'>FIREBASE</p>
+                  <img className='w-20 mx-auto' src={Docker} alt="HTML icon" />
+                  <p className='my-4'>DOCKER</p>
               </div>
           </div>
       </div>
