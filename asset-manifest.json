@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Personal_Portfolio/static/css/main.69e578a0.css",
+    "main.js": "/Personal_Portfolio/static/js/main.6ebb528d.js",
+    "static/media/react.png": "/Personal_Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Personal_Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/Personal_Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/Personal_Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Personal_Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Personal_Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Personal_Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Personal_Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Personal_Portfolio/index.html",
+    "main.69e578a0.css.map": "/Personal_Portfolio/static/css/main.69e578a0.css.map",
+    "main.6ebb528d.js.map": "/Personal_Portfolio/static/js/main.6ebb528d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69e578a0.css",
+    "static/js/main.6ebb528d.js"
+  ]
+}
